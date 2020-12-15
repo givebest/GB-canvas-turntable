@@ -4,6 +4,10 @@
 ## 简介
 
 适用于移动端的Canvas绘制可配置的转盘抽奖
+
+## 演示
+
+https://blog.givebest.cn/GB-canvas-turntable.html
   
 
 ## 使用
@@ -53,7 +57,10 @@
 ```
 
 
+## 支持我
 
+![](https://images.cnblogs.com/cnblogs_com/givebest/826035/o_alipay.png)
+![](https://images.cnblogs.com/cnblogs_com/givebest/826035/o_wechat.png)
 
 
 
