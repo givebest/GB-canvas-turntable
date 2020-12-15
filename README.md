@@ -68,8 +68,8 @@ gbTurntable.init({
 
 ## 支持我
 
-![微信扫码支付](./images/QR/wechat.png)
-![支付宝扫码支付](./images/QR/alipay.png)
+![微信扫码支付](./images/QR/wechat.jpg)
+![支付宝扫码支付](./images/QR/alipay.jpg)
 
 ## 感谢他们
 
