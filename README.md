@@ -77,4 +77,4 @@ gbTurntable.init({
 
 ## License
 
-[MIT & Anti 996](./LICENSE) © 2019 [givebest](https://github.com/givebest)
+[MIT](./LICENSE) © 2020 [givebest](https://github.com/givebest)
